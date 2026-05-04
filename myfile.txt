@@ -2,4 +2,8 @@
 i am a boy
 i am hungry
 this is a test
+<<<<<<< HEAD
 I am rich
+=======
+I made a decision
+>>>>>>> 0efbbc9db266d53aea1a5369d5f72327f1dfa1c2
